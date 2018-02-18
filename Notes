@@ -1,0 +1,6 @@
+Notes
+
+. Mybatis query cache
+. Mybatis batch operation
+. allowUseOriginalMessage="false"
+. Seda concurrent user
